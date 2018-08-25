@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SharedCommons</id>
+    <version>5.0.0</version>
+    <title>SharedCommons</title>
+    <authors>Nkasozi</authors>
+    <owners>Nkasozi</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>http://github.com/nkasozi/SharedCommons</projectUrl>
+    <description>Contains commonly used methods</description>
+    <copyright>Copyright 2018</copyright>
+    <tags>SharedCommons</tags>
+  </metadata>
+</package>

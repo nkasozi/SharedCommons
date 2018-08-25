@@ -1,0 +1,12 @@
+E:\PePay\ChangeRequestProject\SharedCommons\SharedCommonsTests\bin\Release\SharedCommonsTests.dll.config
+E:\PePay\ChangeRequestProject\SharedCommons\SharedCommonsTests\bin\Release\SharedCommonsTests.dll
+E:\PePay\ChangeRequestProject\SharedCommons\SharedCommonsTests\bin\Release\SharedCommonsTests.pdb
+E:\PePay\ChangeRequestProject\SharedCommons\SharedCommonsTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\PePay\ChangeRequestProject\SharedCommons\SharedCommonsTests\bin\Release\SharedCommons.dll
+E:\PePay\ChangeRequestProject\SharedCommons\SharedCommonsTests\bin\Release\Encryption.dll
+E:\PePay\ChangeRequestProject\SharedCommons\SharedCommonsTests\bin\Release\SharedCommons.pdb
+E:\PePay\ChangeRequestProject\SharedCommons\SharedCommonsTests\obj\Release\SharedCommonsTests.csprojAssemblyReference.cache
+E:\PePay\ChangeRequestProject\SharedCommons\SharedCommonsTests\obj\Release\SharedCommonsTests.csproj.CoreCompileInputs.cache
+E:\PePay\ChangeRequestProject\SharedCommons\SharedCommonsTests\obj\Release\SharedCommonsTests.csproj.CopyComplete
+E:\PePay\ChangeRequestProject\SharedCommons\SharedCommonsTests\obj\Release\SharedCommonsTests.dll
+E:\PePay\ChangeRequestProject\SharedCommons\SharedCommonsTests\obj\Release\SharedCommonsTests.pdb

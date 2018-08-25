@@ -1,0 +1,38 @@
+C:\Users\JediMaster\Documents\Visual Studio 2015\Projects\PegasusChangeManagementApi\SharedCommons\bin\Debug\SharedCommons.dll
+C:\Users\JediMaster\Documents\Visual Studio 2015\Projects\PegasusChangeManagementApi\SharedCommons\bin\Debug\SharedCommons.pdb
+C:\Users\JediMaster\Documents\Visual Studio 2015\Projects\PegasusChangeManagementApi\SharedCommons\obj\Debug\SharedCommons.csprojResolveAssemblyReference.cache
+C:\Users\JediMaster\Documents\Visual Studio 2015\Projects\PegasusChangeManagementApi\SharedCommons\obj\Debug\SharedCommons.dll
+C:\Users\JediMaster\Documents\Visual Studio 2015\Projects\PegasusChangeManagementApi\SharedCommons\obj\Debug\SharedCommons.pdb
+C:\Users\JediMaster\Documents\Visual Studio 2015\Projects\PegasusChangeManagementApi\SharedCommons\bin\Debug\Encryption.dll
+D:\Work\PegasusManagementSystem_1\PegasusChangeManagementApi\SharedCommons\bin\Debug\SharedCommons.dll
+D:\Work\PegasusManagementSystem_1\PegasusChangeManagementApi\SharedCommons\bin\Debug\SharedCommons.pdb
+D:\Work\PegasusManagementSystem_1\PegasusChangeManagementApi\SharedCommons\bin\Debug\Encryption.dll
+D:\Work\PegasusManagementSystem_1\PegasusChangeManagementApi\SharedCommons\obj\Debug\SharedCommons.csprojResolveAssemblyReference.cache
+D:\Work\PegasusManagementSystem_1\PegasusChangeManagementApi\SharedCommons\obj\Debug\SharedCommons.dll
+D:\Work\PegasusManagementSystem_1\PegasusChangeManagementApi\SharedCommons\obj\Debug\SharedCommons.pdb
+D:\Work\PegasusInhouseServices\PegasusChangeManagementApi\SharedCommons\bin\Debug\SharedCommons.dll
+D:\Work\PegasusInhouseServices\PegasusChangeManagementApi\SharedCommons\bin\Debug\SharedCommons.pdb
+D:\Work\PegasusInhouseServices\PegasusChangeManagementApi\SharedCommons\bin\Debug\Encryption.dll
+D:\Work\PegasusInhouseServices\PegasusChangeManagementApi\SharedCommons\obj\Debug\SharedCommons.csprojResolveAssemblyReference.cache
+D:\Work\PegasusInhouseServices\PegasusChangeManagementApi\SharedCommons\obj\Debug\SharedCommons.dll
+D:\Work\PegasusInhouseServices\PegasusChangeManagementApi\SharedCommons\obj\Debug\SharedCommons.pdb
+E:\PePay\PegasusInhouseServices\PegasusChangeManagementApi\SharedCommons\bin\Debug\SharedCommons.dll
+E:\PePay\PegasusInhouseServices\PegasusChangeManagementApi\SharedCommons\bin\Debug\SharedCommons.pdb
+E:\PePay\PegasusInhouseServices\PegasusChangeManagementApi\SharedCommons\obj\Debug\SharedCommons.dll
+E:\PePay\PegasusInhouseServices\PegasusChangeManagementApi\SharedCommons\obj\Debug\SharedCommons.pdb
+E:\PePay\PegasusInhouseServices\PegasusChangeManagementApi\SharedCommons\obj\Debug\SharedCommons.csprojResolveAssemblyReference.cache
+E:\PePay\PegasusInhouseServices\PegasusChangeManagementApi\SharedCommons\obj\Debug\SharedCommons.csproj.CoreCompileInputs.cache
+E:\PePay\ChangeRequestProject\ChangeRequestAPI\SharedCommons\bin\Debug\SharedCommons.dll
+E:\PePay\ChangeRequestProject\ChangeRequestAPI\SharedCommons\bin\Debug\SharedCommons.pdb
+E:\PePay\ChangeRequestProject\ChangeRequestAPI\SharedCommons\obj\Debug\SharedCommons.csproj.CoreCompileInputs.cache
+E:\PePay\ChangeRequestProject\ChangeRequestAPI\SharedCommons\obj\Debug\SharedCommons.dll
+E:\PePay\ChangeRequestProject\ChangeRequestAPI\SharedCommons\obj\Debug\SharedCommons.pdb
+E:\PePay\ChangeRequestProject\ChangeRequestAPI\SharedCommons\obj\Debug\SharedCommons.csprojAssemblyReference.cache
+E:\PePay\ChangeRequestProject\SharedCommons\bin\Debug\SharedCommons.dll
+E:\PePay\ChangeRequestProject\SharedCommons\bin\Debug\SharedCommons.pdb
+E:\PePay\ChangeRequestProject\SharedCommons\obj\Debug\SharedCommons.csproj.CoreCompileInputs.cache
+E:\PePay\ChangeRequestProject\SharedCommons\obj\Debug\SharedCommons.dll
+E:\PePay\ChangeRequestProject\SharedCommons\obj\Debug\SharedCommons.pdb
+E:\PePay\ChangeRequestProject\SharedCommons\bin\Debug\Encryption.dll
+E:\PePay\ChangeRequestProject\SharedCommons\obj\Debug\SharedCommons.csproj.CopyComplete
+E:\PePay\ChangeRequestProject\SharedCommons\obj\Debug\SharedCommons.csprojAssemblyReference.cache
